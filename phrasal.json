@@ -1,0 +1,2572 @@
+{
+ "PHRASAL": [
+  {
+   "en": "approve of",
+   "mn": "зөвшөөрөх",
+   "example_en": "Her mother doesn't approve of smoking.",
+   "example_mn": ""
+  },
+  {
+   "en": "ask sb out",
+   "mn": "болзоонд урих",
+   "example_en": "He asked me out to dinner and a movie.",
+   "example_mn": ""
+  },
+  {
+   "en": "ask around",
+   "mn": "ижил асуултыг олон хүнээс асуух",
+   "example_en": "I asked around but nobody has seen my camera.",
+   "example_mn": ""
+  },
+  {
+   "en": "add up to sth",
+   "mn": "тодорхой хэмжээнд хүрэх, тэнцэх",
+   "example_en": "The total costs add up to several million dollars.",
+   "example_mn": ""
+  },
+  {
+   "en": "back sth up",
+   "mn": "ухраах",
+   "example_en": "I'll have to back up my car so that you can get out.",
+   "example_mn": ""
+  },
+  {
+   "en": "back sb up",
+   "mn": "дэмжих",
+   "example_en": "My dad backed me up over my decision to study abroad.",
+   "example_mn": ""
+  },
+  {
+   "en": "blow up",
+   "mn": "дэлбэрэх, шатах",
+   "example_en": "The car blew up after it crashed into the tree.",
+   "example_mn": ""
+  },
+  {
+   "en": "blow sth up",
+   "mn": "хийлэх, үлээх",
+   "example_en": "I blew 15 balloons up for my son's birthday party.",
+   "example_mn": ""
+  },
+  {
+   "en": "break away",
+   "mn": "зугтах",
+   "example_en": "He tried to break away, but I snatched his scarf.",
+   "example_mn": ""
+  },
+  {
+   "en": "break down",
+   "mn": "явахаа болих (тээврийн хэрэгсэл)",
+   "example_en": "My washing machine has broken down.",
+   "example_mn": ""
+  },
+  {
+   "en": "break down",
+   "mn": "хямрах, сэтгэлээр унах",
+   "example_en": "Ann broke down when he told her that her son had died.",
+   "example_mn": ""
+  },
+  {
+   "en": "break sth down",
+   "mn": "жижиг хэсгүүдэд хуваах",
+   "example_en": "Our teacher broke the final project down into three separate parts.",
+   "example_mn": ""
+  },
+  {
+   "en": "break in",
+   "mn": "хүчээр эвдэж орох",
+   "example_en": "The burglars broke in through the kitchen window.",
+   "example_mn": ""
+  },
+  {
+   "en": "break in",
+   "mn": "таслалдуулах, зогсоох",
+   "example_en": "I'm sorry to break in on your conversation, but there is a problem.",
+   "example_mn": ""
+  },
+  {
+   "en": "break into sth",
+   "mn": "хүч түрэн эвдэж орох",
+   "example_en": "The firemen had to break into the room to rescue the boy.",
+   "example_mn": ""
+  },
+  {
+   "en": "break sth in",
+   "mn": "хувцсыг албаар өмсч хуучруулах",
+   "example_en": "I need to break these shoes in before we run next week.",
+   "example_mn": ""
+  },
+  {
+   "en": "break off",
+   "mn": "гэнэт зогсох",
+   "example_en": "Susan broke off in the middle of her speech.",
+   "example_mn": ""
+  },
+  {
+   "en": "break out",
+   "mn": "зугтах",
+   "example_en": "The prisoners broke out of jail when the guards weren't looking.",
+   "example_mn": ""
+  },
+  {
+   "en": "break out in sth",
+   "mn": "арьсны эмгэгтэй болох",
+   "example_en": "I broke out in a rash after our camping trip.",
+   "example_mn": ""
+  },
+  {
+   "en": "break through",
+   "mn": "саад хоригийг давах",
+   "example_en": "His will power helped him break through all obstacles.",
+   "example_mn": ""
+  },
+  {
+   "en": "break up",
+   "mn": "харилцаагаа таслах",
+   "example_en": "My boyfriend and I broke up before I moved to China.",
+   "example_mn": ""
+  },
+  {
+   "en": "break up",
+   "mn": "инээж эхлэх (ярианы хэл)",
+   "example_en": "The kids broke up as soon as the clown started talking.",
+   "example_mn": ""
+  },
+  {
+   "en": "break with",
+   "mn": "хэрэлдэх, салах",
+   "example_en": "I don't want to break with him for your sake.",
+   "example_mn": ""
+  },
+  {
+   "en": "bring about",
+   "mn": "нөлөөлөх, учруулах",
+   "example_en": "Moving to the city brought about great changes in my life.",
+   "example_mn": ""
+  },
+  {
+   "en": "bring along",
+   "mn": "авч явах",
+   "example_en": "I brought along my youngest son to the country.",
+   "example_mn": ""
+  },
+  {
+   "en": "bring around",
+   "mn": "ятгах, итгүүлэх",
+   "example_en": "It took me ages to bring him around to my point of view.",
+   "example_mn": ""
+  },
+  {
+   "en": "bring away",
+   "mn": "суралцах, туршлагажих",
+   "example_en": "I brought away a lot from my physiology courses at university.",
+   "example_mn": ""
+  },
+  {
+   "en": "bring back",
+   "mn": "сэтгэгдэл, дурсамж үлдээх",
+   "example_en": "My visit to the dentist brought back painful memories.",
+   "example_mn": ""
+  },
+  {
+   "en": "bring down",
+   "mn": "үнэ бууруулах",
+   "example_en": "They brought down prices after the holiday, but it didn't increase sales.",
+   "example_mn": ""
+  },
+  {
+   "en": "bring sth down",
+   "mn": "уйтгарлуулах",
+   "example_en": "This sad music is bringing me down.",
+   "example_mn": ""
+  },
+  {
+   "en": "bring forth",
+   "mn": "гаргах, үзүүлэх",
+   "example_en": "She brought forth a surprising result.",
+   "example_mn": ""
+  },
+  {
+   "en": "bring forward",
+   "mn": "төлөвлөснөөс эрт болох",
+   "example_en": "They brought the meeting forward one week because of a conflict in schedules.",
+   "example_mn": ""
+  },
+  {
+   "en": "bring in",
+   "mn": "мөнгө олох",
+   "example_en": "The job brings in two thousand dollars a month.",
+   "example_mn": ""
+  },
+  {
+   "en": "bring off",
+   "mn": "амжилтад хүрэх",
+   "example_en": "You passed calculus exam! I can't believe you brought that off.",
+   "example_mn": ""
+  },
+  {
+   "en": "bring on",
+   "mn": "үйлийн шалтгаан болох",
+   "example_en": "Getting wet in the rain yesterday brought on my cold.",
+   "example_mn": ""
+  },
+  {
+   "en": "bring out",
+   "mn": "хэвлэж гаргах",
+   "example_en": "The band are bringing out a new CD in the autumn.",
+   "example_mn": ""
+  },
+  {
+   "en": "bring sb up",
+   "mn": "өсгөх, бойжуулах",
+   "example_en": "My grandparents brought me up after my parents died.",
+   "example_mn": ""
+  },
+  {
+   "en": "bring sth up",
+   "mn": "ямар нэг сэдвээр ярьж эхлэх",
+   "example_en": "My mom walks out of the room when my dad brings up sports.",
+   "example_mn": ""
+  },
+  {
+   "en": "bring sth up",
+   "mn": "бөөлжих",
+   "example_en": "He drank so much that he brought his dinner up in the toilet.",
+   "example_mn": ""
+  },
+  {
+   "en": "call around",
+   "mn": "зочлох",
+   "example_en": "I called around, but she was not in.",
+   "example_mn": ""
+  },
+  {
+   "en": "call after",
+   "mn": "овоглох",
+   "example_en": "He was called Joe after his uncle who had died in the war.",
+   "example_mn": ""
+  },
+  {
+   "en": "call back",
+   "mn": "эргээд утасдах",
+   "example_en": "You better call back John, he's called twice already.",
+   "example_mn": ""
+  },
+  {
+   "en": "call for",
+   "mn": "хүнийг байгаа газраас нь очиж авах",
+   "example_en": "He called for her at home but she wasn't there last night.",
+   "example_mn": ""
+  },
+  {
+   "en": "call forth",
+   "mn": "төрүүлэх, бий болгох",
+   "example_en": "This is a story that calls forth a lot of beautiful memories.",
+   "example_mn": ""
+  },
+  {
+   "en": "call in",
+   "mn": "хүн дуудаж ажил хийлгэх",
+   "example_en": "We had to call in a plumber because the sink was leaking.",
+   "example_mn": ""
+  },
+  {
+   "en": "call in",
+   "mn": "богино хугацаагаар зочлох",
+   "example_en": "The Smith's called in last night and we had a pleasant visit.",
+   "example_mn": ""
+  },
+  {
+   "en": "call off",
+   "mn": "болих",
+   "example_en": "The reunion was called off because not enough people could attend.",
+   "example_mn": ""
+  },
+  {
+   "en": "call on sb",
+   "mn": "зочлох",
+   "example_en": "We called on the Jones family last Sunday afternoon.",
+   "example_mn": ""
+  },
+  {
+   "en": "call on sb",
+   "mn": "асуулт асуух",
+   "example_en": "The professor called on me for question 2.",
+   "example_mn": ""
+  },
+  {
+   "en": "call on",
+   "mn": "тусламж хүсэх",
+   "example_en": "The President called on the wealthy countries for financial aid after the floods destroyed much of the country's agriculture.",
+   "example_mn": ""
+  },
+  {
+   "en": "call out",
+   "mn": "чангаар дуудах, хэлэх",
+   "example_en": "The teacher called out the students' names.",
+   "example_mn": ""
+  },
+  {
+   "en": "call round",
+   "mn": "зочлох",
+   "example_en": "I'll call round in the evening if that's OK.",
+   "example_mn": ""
+  },
+  {
+   "en": "call sb up",
+   "mn": "утасдах",
+   "example_en": "I called him up as soon as I got to a phone to tell him the news.",
+   "example_mn": ""
+  },
+  {
+   "en": "check back",
+   "mn": "эргэж үзэх, шалгах",
+   "example_en": "We will check back tomorrow to make sure you are OK.",
+   "example_mn": ""
+  },
+  {
+   "en": "check by",
+   "mn": "очиж нягталж үзэх",
+   "example_en": "We need to check by the lawyer's office to make sure the papers are ready.",
+   "example_mn": ""
+  },
+  {
+   "en": "check for",
+   "mn": "шалгах, шинжлэх",
+   "example_en": "They checked for diseases before they let him into the country.",
+   "example_mn": ""
+  },
+  {
+   "en": "check in / into",
+   "mn": "буудал захиалж орох",
+   "example_en": "They checked in at Ritz yesterday.",
+   "example_mn": ""
+  },
+  {
+   "en": "check off",
+   "mn": "бүртгэж тэмдэглэх",
+   "example_en": "She checked off the candidates' names as they arrived.",
+   "example_mn": ""
+  },
+  {
+   "en": "check on",
+   "mn": "магадлаж үзэх",
+   "example_en": "Jill checked on the cake to make sure it wasn't burnt.",
+   "example_mn": ""
+  },
+  {
+   "en": "check out",
+   "mn": "буудлаас гарах",
+   "example_en": "We checked out of the hotel before noon as it was policy.",
+   "example_mn": ""
+  },
+  {
+   "en": "check over",
+   "mn": "маш анхааралтай шалгах",
+   "example_en": "We checked the contract over before signing it.",
+   "example_mn": ""
+  },
+  {
+   "en": "check up on",
+   "mn": "мөрдөх, мөшгөх",
+   "example_en": "My parents were always checking up on me.",
+   "example_mn": ""
+  },
+  {
+   "en": "check through",
+   "mn": "шалгаж үзэх",
+   "example_en": "When I arrived, a customs officer checked through all my bags.",
+   "example_mn": ""
+  },
+  {
+   "en": "check with",
+   "mn": "магадлаж асуух",
+   "example_en": "He needs to check with his wife to make sure they don't have other plans.",
+   "example_mn": ""
+  },
+  {
+   "en": "close down",
+   "mn": "дэлгүүр, бизнес, салбар нэгж хаагдах, зогсох",
+   "example_en": "The banks have closed down a lot of branches in village over the last few years.",
+   "example_mn": ""
+  },
+  {
+   "en": "close off",
+   "mn": "хүмүүсийг оруулахгүй хаах",
+   "example_en": "The police closed the road off after the explosion.",
+   "example_mn": ""
+  },
+  {
+   "en": "close out",
+   "mn": "дуусах, төгсөх",
+   "example_en": "We closed out the meeting early and went home.",
+   "example_mn": ""
+  },
+  {
+   "en": "close out",
+   "mn": "хаах, ашиглахаа болих",
+   "example_en": "We closed out the account and changes to another bank.",
+   "example_mn": ""
+  },
+  {
+   "en": "close in",
+   "mn": "бүрхэх, хүрээлэх",
+   "example_en": "The fog closed in and we couldn't see two yards in front us.",
+   "example_mn": ""
+  },
+  {
+   "en": "close in",
+   "mn": "дөхөж ирэх",
+   "example_en": "The police were closing in so they decided to try to make a break.",
+   "example_mn": ""
+  },
+  {
+   "en": "close on",
+   "mn": "дөхөх, ойртох",
+   "example_en": "She is closing on the leader of the race.",
+   "example_mn": ""
+  },
+  {
+   "en": "close up",
+   "mn": "нийлэх, наалдах",
+   "example_en": "The leaves close up when it rains.",
+   "example_mn": ""
+  },
+  {
+   "en": "close in upon",
+   "mn": "хүнд ойртож очих",
+   "example_en": "The police were closing in upon the gang.",
+   "example_mn": ""
+  },
+  {
+   "en": "come across",
+   "mn": "санаандгүй олох / тааралдах",
+   "example_en": "I came across my old photos when I was tidying the closet.",
+   "example_mn": ""
+  },
+  {
+   "en": "come about",
+   "mn": "болох (үйл явдал)",
+   "example_en": "You became the mayor of your city? Wow! How did that come about?",
+   "example_mn": ""
+  },
+  {
+   "en": "come along",
+   "mn": "хамт явах",
+   "example_en": "May I come along on your trip tomorrow?",
+   "example_mn": ""
+  },
+  {
+   "en": "come apart",
+   "mn": "задрах, хэмхрэх",
+   "example_en": "The top and bottom come apart if you pull hard.",
+   "example_mn": ""
+  },
+  {
+   "en": "come around",
+   "mn": "сэргэх, ухаан орох",
+   "example_en": "It took several hours after the operation before he came around.",
+   "example_mn": ""
+  },
+  {
+   "en": "come around to",
+   "mn": "наашаа хандах, санал нэгдэх",
+   "example_en": "They have started coming around to our way of thinking and are less hostile.",
+   "example_mn": ""
+  },
+  {
+   "en": "come back",
+   "mn": "буцаж ирэх",
+   "example_en": "I left work and came back home early.",
+   "example_mn": ""
+  },
+  {
+   "en": "come before",
+   "mn": "шүүхэд дуудагдах",
+   "example_en": "He came before the court on charges of speeding.",
+   "example_mn": ""
+  },
+  {
+   "en": "come by",
+   "mn": "зочлох",
+   "example_en": "I'll come by after work and see if you need any help.",
+   "example_mn": ""
+  },
+  {
+   "en": "come down",
+   "mn": "бороо орох",
+   "example_en": "Just look at the rain coming down! I'm not going out in that.",
+   "example_mn": ""
+  },
+  {
+   "en": "come down on",
+   "mn": "хурцаар шүүмжлэх",
+   "example_en": "The management really came down on him for losing the contract.",
+   "example_mn": ""
+  },
+  {
+   "en": "come down to",
+   "mn": "чухал байх",
+   "example_en": "It all comes down to a question of who tries hardest.",
+   "example_mn": ""
+  },
+  {
+   "en": "come down upon",
+   "mn": "шүүмжлэх, донгодох",
+   "example_en": "They will come down upon us if we are late.",
+   "example_mn": ""
+  },
+  {
+   "en": "come down with",
+   "mn": "өвдөх",
+   "example_en": "She came down with a virus.",
+   "example_mn": ""
+  },
+  {
+   "en": "come forth",
+   "mn": "ил тод байх, гарч ирэх",
+   "example_en": "The draft proposal came forth in April.",
+   "example_mn": ""
+  },
+  {
+   "en": "come forth with",
+   "mn": "мэдээллээр хангах",
+   "example_en": "None of the witnesses came forth with an accurate description of the gang.",
+   "example_mn": ""
+  },
+  {
+   "en": "come from",
+   "mn": "уугуул, гарал, үүсэл",
+   "example_en": "She comes from Mongolia.",
+   "example_mn": ""
+  },
+  {
+   "en": "come in",
+   "mn": "унаа тээврийн хэрэгсэл ирэх",
+   "example_en": "The plane came in at two-thirty in the morning.",
+   "example_mn": ""
+  },
+  {
+   "en": "come in for",
+   "mn": "шүүмжлэл хүлээх",
+   "example_en": "Fast food has come in for further criticism in a report published today.",
+   "example_mn": ""
+  },
+  {
+   "en": "come in / into",
+   "mn": "орох, нэвтрэх",
+   "example_en": "The burglar came into the house through the back door.",
+   "example_mn": ""
+  },
+  {
+   "en": "come into",
+   "mn": "өвлөх",
+   "example_en": "My son came into a lot of money when his grandfather died.",
+   "example_mn": ""
+  },
+  {
+   "en": "come into use",
+   "mn": "ашиглагдаж эхлэх",
+   "example_en": "The computerized system came into use at the end of last year.",
+   "example_mn": ""
+  },
+  {
+   "en": "come off",
+   "mn": "салах, эвдрэх",
+   "example_en": "Be careful with this old book. The cover is coming off.",
+   "example_mn": ""
+  },
+  {
+   "en": "come on",
+   "mn": "хурдлах, түргэлэх",
+   "example_en": "Come on! I can't wait all day.",
+   "example_mn": ""
+  },
+  {
+   "en": "come out in",
+   "mn": "задрах, мэдэгдэх, илрэх",
+   "example_en": "The details of the scandal came out in the press and she had to resign.",
+   "example_mn": ""
+  },
+  {
+   "en": "come out in",
+   "mn": "тууралт гарах, биржийх",
+   "example_en": "She came out in a nasty rash after touching the poisonous plant by mistake.",
+   "example_mn": ""
+  },
+  {
+   "en": "come out of",
+   "mn": "эдгэрэх, илааршиих, сэргэх",
+   "example_en": "After three years, he came out of the coma.",
+   "example_mn": ""
+  },
+  {
+   "en": "come out with",
+   "mn": "боломжтой, бэлэн болгох",
+   "example_en": "They have just come out with a new version.",
+   "example_mn": ""
+  },
+  {
+   "en": "come over",
+   "mn": "ирэх, зочлох",
+   "example_en": "He comes over to my house every night.",
+   "example_mn": ""
+  },
+  {
+   "en": "come round",
+   "mn": "сэргэх, ухаан орох",
+   "example_en": "She came round and learned that the operation had been a complete success.",
+   "example_mn": ""
+  },
+  {
+   "en": "come through",
+   "mn": "мэдээ, зөвшөөрөл ирэх",
+   "example_en": "We can buy the house - the loan came through.",
+   "example_mn": ""
+  },
+  {
+   "en": "come to",
+   "mn": "ухаан, мэдээ орох",
+   "example_en": "She came to an hour after the operation.",
+   "example_mn": ""
+  },
+  {
+   "en": "come up",
+   "mn": "гарч ирэх, бий болох",
+   "example_en": "Until this situation came up, we were having a nice, relaxing weekend.",
+   "example_mn": ""
+  },
+  {
+   "en": "come up against",
+   "mn": "бэрхшээлтэй тулгарах",
+   "example_en": "If you come up against difficulties, let me know and I'll help out.",
+   "example_mn": ""
+  },
+  {
+   "en": "come up with",
+   "mn": "санаа, шийдэл олох",
+   "example_en": "It took me all night, but I came up with the answer.",
+   "example_mn": ""
+  },
+  {
+   "en": "come upon",
+   "mn": "санамсаргүй олох, дайралдах",
+   "example_en": "I came upon the book in a little second-hand bookshop.",
+   "example_mn": ""
+  },
+  {
+   "en": "come up to",
+   "mn": "жишигт хүрэх",
+   "example_en": "It's hard for others to come up to the very high standards she sets for herself.",
+   "example_mn": ""
+  },
+  {
+   "en": "cut across",
+   "mn": "товчилж шулуун явах",
+   "example_en": "Let's cut across the park on the way home from school - it'll be faster.",
+   "example_mn": ""
+  },
+  {
+   "en": "cut back (on sth), cut down",
+   "mn": "багасгах",
+   "example_en": "My doctor wants me to cut back on sweets and fatty foods.",
+   "example_mn": ""
+  },
+  {
+   "en": "cut sth down",
+   "mn": "огтлож унагах",
+   "example_en": "You should cut that dead tree down before it falls on your house.",
+   "example_mn": ""
+  },
+  {
+   "en": "cut off",
+   "mn": "таслах, салгах",
+   "example_en": "I cut the tags off my new clothing.",
+   "example_mn": ""
+  },
+  {
+   "en": "cut sth out",
+   "mn": "хайчилж авах",
+   "example_en": "I cut an interesting story out of the magazine to show to my brother.",
+   "example_mn": ""
+  },
+  {
+   "en": "cut it out",
+   "mn": "боль, зогс",
+   "example_en": "\"Cut it out! I'm trying to take a nap!\"",
+   "example_mn": ""
+  },
+  {
+   "en": "cut out",
+   "mn": "мотор ажиллахгүй болох",
+   "example_en": "I was driving when the motor suddenly cut out.",
+   "example_mn": ""
+  },
+  {
+   "en": "cut sth up",
+   "mn": "жижиглэж огтлох",
+   "example_en": "After cutting the tree down, the logger cut it up into logs.",
+   "example_mn": ""
+  },
+  {
+   "en": "cut sb up",
+   "mn": "гомдоох, гонсойлгох",
+   "example_en": "His reaction really cut me up.",
+   "example_mn": ""
+  },
+  {
+   "en": "cut sth up",
+   "mn": "бага зэрэг шархдах",
+   "example_en": "I cut my hand up when I broke the glass.",
+   "example_mn": ""
+  },
+  {
+   "en": "cut in",
+   "mn": "зогсоох, яриан дундуур орох",
+   "example_en": "We were having a conversation when he came up and cut in.",
+   "example_mn": ""
+  },
+  {
+   "en": "cut in",
+   "mn": "ажиллаж эхлэх",
+   "example_en": "The air conditioner cuts in when the temperature gets to 22°C.",
+   "example_mn": ""
+  },
+  {
+   "en": "cut in",
+   "mn": "урдуур дайрч орох",
+   "example_en": "The bus driver got angry when that car cut in.",
+   "example_mn": ""
+  },
+  {
+   "en": "cut in",
+   "mn": "нийлтэл холих, хутгах",
+   "example_en": "Cut the butter in with the flour.",
+   "example_mn": ""
+  },
+  {
+   "en": "deal in",
+   "mn": "худалдах, зарах",
+   "example_en": "The police said she was dealing in stolen goods.",
+   "example_mn": ""
+  },
+  {
+   "en": "deal in",
+   "mn": "сонирхох",
+   "example_en": "Frank was not a man who dealt in rumours.",
+   "example_mn": ""
+  },
+  {
+   "en": "deal with sth",
+   "mn": "асуудал шийдвэрлэх",
+   "example_en": "There are many problems, but I can deal with only one at a time.",
+   "example_mn": ""
+  },
+  {
+   "en": "do away with",
+   "mn": "болих",
+   "example_en": "The school is going to do away with uniforms. Nobody likes them.",
+   "example_mn": ""
+  },
+  {
+   "en": "do sb in",
+   "mn": "алах",
+   "example_en": "The robbers tried to steal my money and then do me in.",
+   "example_mn": ""
+  },
+  {
+   "en": "do sth over",
+   "mn": "дахин хийх",
+   "example_en": "I got a bad grade on my paper, but the teacher said I could do it over.",
+   "example_mn": ""
+  },
+  {
+   "en": "do up",
+   "mn": "шинэчлэх, гоё болгох",
+   "example_en": "Ann did up her makeup before she went to the dance.",
+   "example_mn": ""
+  },
+  {
+   "en": "do with",
+   "mn": "холбоотой, хамааралтай байх",
+   "example_en": "Don't blame me for what happened; I had nothing to do with it.",
+   "example_mn": ""
+  },
+  {
+   "en": "do without",
+   "mn": "гүйгээр чадах, болох",
+   "example_en": "There is no sugar, so you'll have to do without.",
+   "example_mn": ""
+  },
+  {
+   "en": "do for sb",
+   "mn": "амьдрах, амжилтанд хүрэх боломжгүй болгох",
+   "example_en": "It was the flu that did for her in the end.",
+   "example_mn": ""
+  },
+  {
+   "en": "face off",
+   "mn": "өрсөлдөх, тэмцэлдэх",
+   "example_en": "Soldiers and protesters faced off during riots.",
+   "example_mn": ""
+  },
+  {
+   "en": "face up to",
+   "mn": "хүлээн зөвшөөрөх",
+   "example_en": "Many people find it hard to face up to the fact that they are getting old.",
+   "example_mn": ""
+  },
+  {
+   "en": "face down",
+   "mn": "тэвчээртэй хүчтэй, зоригтой байх",
+   "example_en": "They showed they could face down the opposition.",
+   "example_mn": ""
+  },
+  {
+   "en": "fall apart",
+   "mn": "эвдрэх, бутрах",
+   "example_en": "That chair is so old, it looks like it'll fall apart if anyone sits on it.",
+   "example_mn": ""
+  },
+  {
+   "en": "fall apart",
+   "mn": "сэтгэлээр унах",
+   "example_en": "She fell apart when she heard the tragic news.",
+   "example_mn": ""
+  },
+  {
+   "en": "fall back",
+   "mn": "ухрах, явах",
+   "example_en": "The general ordered the soldiers to fall back to a safer location.",
+   "example_mn": ""
+  },
+  {
+   "en": "fall behind",
+   "mn": "хоцрох",
+   "example_en": "Tom was sick last semester, and he fell behind in his studies.",
+   "example_mn": ""
+  },
+  {
+   "en": "fall down / fall over",
+   "mn": "унах, ойчих",
+   "example_en": "The skaters fell down in the middle of their performance.",
+   "example_mn": ""
+  },
+  {
+   "en": "fall for",
+   "mn": "дурлах, татагдах",
+   "example_en": "I think I'm falling for Jeremy - I just can't stop thinking about him!",
+   "example_mn": ""
+  },
+  {
+   "en": "fall for",
+   "mn": "худал зүйлд үнэмших",
+   "example_en": "Sue told the teacher that she missed class because her dog was sick - and the teacher fell for it.",
+   "example_mn": ""
+  },
+  {
+   "en": "fall out",
+   "mn": "унах, ойчих",
+   "example_en": "Excuse me - is this your wallet? It fell out of your pocket.",
+   "example_mn": ""
+  },
+  {
+   "en": "fall out",
+   "mn": "маргалдах, уурлах",
+   "example_en": "John left the company after falling out with his business partner.",
+   "example_mn": ""
+  },
+  {
+   "en": "fall out with",
+   "mn": "нөхөрлөлөө таслах",
+   "example_en": "I fell out with Sam after I caught him kissing my girlfriend.",
+   "example_mn": ""
+  },
+  {
+   "en": "fall over",
+   "mn": "тэнцвэр алдаж унах",
+   "example_en": "I tripped on the edge of the sidewalk and fell over into the road.",
+   "example_mn": ""
+  },
+  {
+   "en": "fall in",
+   "mn": "нурах, эвдрэх",
+   "example_en": "The bridge fell in as the car was going over it.",
+   "example_mn": ""
+  },
+  {
+   "en": "fall through",
+   "mn": "төлөвлөгөө нурах",
+   "example_en": "The family reunion fell through after Dad got sick.",
+   "example_mn": ""
+  },
+  {
+   "en": "fall through",
+   "mn": "ангал, нүхрүү унах",
+   "example_en": "The roofer had fallen through a hole in the roof.",
+   "example_mn": ""
+  },
+  {
+   "en": "fall in with",
+   "mn": "саналыг зөвшөөрөх",
+   "example_en": "I fell in with the plan to overthrow the government.",
+   "example_mn": ""
+  },
+  {
+   "en": "fall off",
+   "mn": "унах, ойчих",
+   "example_en": "My glasses fell off when I bent down to pick up the paper from the floor.",
+   "example_mn": ""
+  },
+  {
+   "en": "feel up to",
+   "mn": "боломж, эрч хүчтэй байх",
+   "example_en": "I'm so tired. I don't think I feel up to going out tonight.",
+   "example_mn": ""
+  },
+  {
+   "en": "figure on",
+   "mn": "төлөвлөх, таамаглах",
+   "example_en": "What job do you figure on doing when you graduate?",
+   "example_mn": ""
+  },
+  {
+   "en": "figure out",
+   "mn": "олох, мэдэх, хариулах",
+   "example_en": "The police couldn't figure out how the burglars had got into the warehouse.",
+   "example_mn": ""
+  },
+  {
+   "en": "fill in",
+   "mn": "хуудас, маягт бөглөх",
+   "example_en": "I filled in the application form and posted it off.",
+   "example_mn": ""
+  },
+  {
+   "en": "fill in (for)",
+   "mn": "хүний ажил орлон хийх",
+   "example_en": "She's just had a baby, so we have hired someone to fill in for her.",
+   "example_mn": ""
+  },
+  {
+   "en": "fill out",
+   "mn": "хуудас, маягт бөглөх",
+   "example_en": "I filled out the application form and mailed it.",
+   "example_mn": ""
+  },
+  {
+   "en": "fill (sth) up",
+   "mn": "дүүрэх",
+   "example_en": "She read the poem, their eyes filled up with tears.",
+   "example_mn": ""
+  },
+  {
+   "en": "find out",
+   "mn": "олж, мэдэж авах",
+   "example_en": "I met a nice man at the party, but I never found out his name.",
+   "example_mn": ""
+  },
+  {
+   "en": "get ahead",
+   "mn": "хөгжих, дэвших",
+   "example_en": "Nowadays, you need IT skills if you want to get ahead.",
+   "example_mn": ""
+  },
+  {
+   "en": "get along",
+   "mn": "учрыг нь олох, чадах, амжилт гаргах",
+   "example_en": "How are you getting along in your new job?",
+   "example_mn": ""
+  },
+  {
+   "en": "get along with",
+   "mn": "сайн харьцаатай байх",
+   "example_en": "Jim and his cousin aren't good friends, but they get along.",
+   "example_mn": ""
+  },
+  {
+   "en": "get around (round) to",
+   "mn": "эхэлж хийж дуусах",
+   "example_en": "I didn't get around to doing my taxes until April 14.",
+   "example_mn": ""
+  },
+  {
+   "en": "get at",
+   "mn": "шүүмжлэх",
+   "example_en": "His boss is always getting at him for arriving late.",
+   "example_mn": ""
+  },
+  {
+   "en": "get at",
+   "mn": "хүрэх, авах",
+   "example_en": "The cupboard is too high for me to get at it.",
+   "example_mn": ""
+  },
+  {
+   "en": "get away",
+   "mn": "зугтах, зайлах, явах",
+   "example_en": "When he took the knife out of his pocket, I got away from him fast.",
+   "example_mn": ""
+  },
+  {
+   "en": "get back",
+   "mn": "эргэж ирэх",
+   "example_en": "We left three weeks ago, and we didn't get back until yesterday.",
+   "example_mn": ""
+  },
+  {
+   "en": "get back at",
+   "mn": "муу үйл хийх, өшөө авах",
+   "example_en": "She wants to get back at her ex-husband for the way he treated her.",
+   "example_mn": ""
+  },
+  {
+   "en": "get back to",
+   "mn": "дараа ярих",
+   "example_en": "I'm really busy. Can I get back to you?",
+   "example_mn": ""
+  },
+  {
+   "en": "get behind",
+   "mn": "хоцрох",
+   "example_en": "Ann had some problems last semester, and she got behind in her studies.",
+   "example_mn": ""
+  },
+  {
+   "en": "get by",
+   "mn": "явах, гатлах",
+   "example_en": "There was an accident on the highway, and no one could get by.",
+   "example_mn": ""
+  },
+  {
+   "en": "get by (on)",
+   "mn": "ажил, амьдралаа үргэлжлүүлэх",
+   "example_en": "It's not easy getting by on $250 a week.",
+   "example_mn": ""
+  },
+  {
+   "en": "get down (to)",
+   "mn": "тонгойх, доошоо буулгах",
+   "example_en": "Get down! If the police catch us here we'll be in a lot of trouble.",
+   "example_mn": ""
+  },
+  {
+   "en": "get down",
+   "mn": "гонсойлгох, уйтгарлуулах",
+   "example_en": "Jim's marriage problems are really getting him down.",
+   "example_mn": ""
+  },
+  {
+   "en": "get in / into",
+   "mn": "орох",
+   "example_en": "Get in the car! We're leaving now.",
+   "example_mn": ""
+  },
+  {
+   "en": "get in",
+   "mn": "гэр, ажил, сургуульдаа ирэх",
+   "example_en": "I got in late today because the train broke down.",
+   "example_mn": ""
+  },
+  {
+   "en": "get in",
+   "mn": "элсэн орох эрх авах",
+   "example_en": "He did badly in the entrance exam and he didn't get in.",
+   "example_mn": ""
+  },
+  {
+   "en": "get in",
+   "mn": "бараа худалдаж авах, хангах",
+   "example_en": "We need to get some coffee in; we're completely out.",
+   "example_mn": ""
+  },
+  {
+   "en": "get off",
+   "mn": "аялалаа эхлэх",
+   "example_en": "We need to get off early to avoid the rush hour traffic.",
+   "example_mn": ""
+  },
+  {
+   "en": "get off",
+   "mn": "юман дээрээс болон унаанаас буух",
+   "example_en": "I got off the train while it's moving.",
+   "example_mn": ""
+  },
+  {
+   "en": "get off",
+   "mn": "ажлаа дуусаж гарах",
+   "example_en": "I like to get off early on Fridays.",
+   "example_mn": ""
+  },
+  {
+   "en": "get off",
+   "mn": "утсаар ярьж дуусах",
+   "example_en": "Get off the phone - I need to use it!",
+   "example_mn": ""
+  },
+  {
+   "en": "get off",
+   "mn": "арилгах, салгах",
+   "example_en": "I can't get this paint off my hands.",
+   "example_mn": ""
+  },
+  {
+   "en": "get off on",
+   "mn": "зугаацах, сэтгэл хөдлөх",
+   "example_en": "Mountain climbing is what I get off on.",
+   "example_mn": ""
+  },
+  {
+   "en": "get on",
+   "mn": "үргэлжлүүлэх",
+   "example_en": "The teacher asked us to get on with some work quietly as he had to leave the classroom.",
+   "example_mn": ""
+  },
+  {
+   "en": "get on",
+   "mn": "өмсөх",
+   "example_en": "Get your coat on. It's cold outside.",
+   "example_mn": ""
+  },
+  {
+   "en": "get on",
+   "mn": "унаанд орох, суух",
+   "example_en": "The bus stopped so that I could get on.",
+   "example_mn": ""
+  },
+  {
+   "en": "get on",
+   "mn": "мордох, унах",
+   "example_en": "Getting on a camel isn't as easy as getting on a horse.",
+   "example_mn": ""
+  },
+  {
+   "en": "get on",
+   "mn": "сайн харилцаатай байх",
+   "example_en": "We have always got on well.",
+   "example_mn": ""
+  },
+  {
+   "en": "get on",
+   "mn": "ахиц, амжилт гаргах",
+   "example_en": "How're you getting on with your English class?",
+   "example_mn": ""
+  },
+  {
+   "en": "get on",
+   "mn": "хөгширөх, нас ахих",
+   "example_en": "He's getting on now and doesn't work so hard.",
+   "example_mn": ""
+  },
+  {
+   "en": "get on",
+   "mn": "болзсон цаг дөхөх, ойртох",
+   "example_en": "I must get home now; it's getting on.",
+   "example_mn": ""
+  },
+  {
+   "en": "get on",
+   "mn": "явах",
+   "example_en": "I must be getting on; I have other things to do this evening.",
+   "example_mn": ""
+  },
+  {
+   "en": "get out",
+   "mn": "гаргах",
+   "example_en": "Mother's coming for dinner tonight, so let's get the good china out.",
+   "example_mn": ""
+  },
+  {
+   "en": "get out",
+   "mn": "арилгах",
+   "example_en": "This detergent's ad claims it'll get dirt out even in cold water.",
+   "example_mn": ""
+  },
+  {
+   "en": "get out",
+   "mn": "задрах, тарах",
+   "example_en": "There was a huge scandal after the news got out.",
+   "example_mn": ""
+  },
+  {
+   "en": "get out",
+   "mn": "гарч алжаалаа тайлах",
+   "example_en": "You work too hard; you should get out more.",
+   "example_mn": ""
+  },
+  {
+   "en": "get out",
+   "mn": "гарах, зугтах",
+   "example_en": "We smelled gas and got out of the building just seconds before it exploded.",
+   "example_mn": ""
+  },
+  {
+   "en": "get out of",
+   "mn": "зайлсхийх, бултах",
+   "example_en": "He got out of gym class by pretending to be sick.",
+   "example_mn": ""
+  },
+  {
+   "en": "get over",
+   "mn": "ирэх",
+   "example_en": "Susie, get over here and clean up this mess immediately!",
+   "example_mn": ""
+  },
+  {
+   "en": "get over",
+   "mn": "хэвээндээ орох, эдгэрэх",
+   "example_en": "I thought he would never get over her illness.",
+   "example_mn": ""
+  },
+  {
+   "en": "get over",
+   "mn": "тэвчих, давах, гайхах",
+   "example_en": "I can't get over seeing my ex-wife with her new husband.",
+   "example_mn": ""
+  },
+  {
+   "en": "get over with",
+   "mn": "дуусгах, эцэслэх",
+   "example_en": "I got the test over with rather than have to worry about it any longer.",
+   "example_mn": ""
+  },
+  {
+   "en": "get over",
+   "mn": "асуудлыг шийдвэрлэх",
+   "example_en": "It took us a long time to get over the problems with the computer system.",
+   "example_mn": ""
+  },
+  {
+   "en": "get round (around) to",
+   "mn": "юм хийх зав гаргах, чадах",
+   "example_en": "It always takes me ages to get round to writing letters.",
+   "example_mn": ""
+  },
+  {
+   "en": "get through",
+   "mn": "хийж дуусах",
+   "example_en": "After you get through washing the dishes, you can start ironing.",
+   "example_mn": ""
+  },
+  {
+   "en": "get through",
+   "mn": "ярих, холбогдох (радио, утас)",
+   "example_en": "Nancy tried calling Jim last night, but she couldn't get through.",
+   "example_mn": ""
+  },
+  {
+   "en": "get through",
+   "mn": "идэх, уух",
+   "example_en": "He gets through two bottles of wine a day.",
+   "example_mn": ""
+  },
+  {
+   "en": "get through",
+   "mn": "шалгалт, сорилгод тэнцэх",
+   "example_en": "How did he ever get through his driving test?",
+   "example_mn": ""
+  },
+  {
+   "en": "get through",
+   "mn": "шалгалтад тэнцэхэд нь туслах",
+   "example_en": "My teacher got me through the exam.",
+   "example_mn": ""
+  },
+  {
+   "en": "get through",
+   "mn": "батлагдах, зөвшөөрөгдөх",
+   "example_en": "If the proposal gets through, it'll make things much better for us.",
+   "example_mn": ""
+  },
+  {
+   "en": "get through",
+   "mn": "ойлгуулах",
+   "example_en": "I've explained it a hundred times! What do I have to do to get through to you?",
+   "example_mn": ""
+  },
+  {
+   "en": "get through",
+   "mn": "ирэх",
+   "example_en": "The message didn't get through.",
+   "example_mn": ""
+  },
+  {
+   "en": "get to",
+   "mn": "хүрч ирэх, ажлаа эхлэх",
+   "example_en": "Bill got to Peoria. Ann got to work.",
+   "example_mn": ""
+  },
+  {
+   "en": "get together",
+   "mn": "уулзах",
+   "example_en": "If you're not busy tomorrow night, would you like to get together?",
+   "example_mn": ""
+  },
+  {
+   "en": "get together",
+   "mn": "цуглуулах, эмхлэх",
+   "example_en": "I got together a list of all their names and phone numbers.",
+   "example_mn": ""
+  },
+  {
+   "en": "get together",
+   "mn": "санал нэгдэх, зөвшилд хүрэх",
+   "example_en": "I hope the committee can get together on this matter.",
+   "example_mn": ""
+  },
+  {
+   "en": "get up",
+   "mn": "өглөө босох, сэрэх",
+   "example_en": "He never gets up before noon.",
+   "example_mn": ""
+  },
+  {
+   "en": "get up",
+   "mn": "зохион байгуулах (арга хэмжээ)",
+   "example_en": "The teacher told the students to get up the party.",
+   "example_mn": ""
+  },
+  {
+   "en": "get up to",
+   "mn": "буруу, үл бүтэх зүйл хийх",
+   "example_en": "I wonder what those two got up to yesterday?",
+   "example_mn": ""
+  },
+  {
+   "en": "give away",
+   "mn": "илүү зүйлээ үнэгүй өгөх",
+   "example_en": "She gave her old clothes away when she moved.",
+   "example_mn": ""
+  },
+  {
+   "en": "give away",
+   "mn": "нууцыг задлах, илчлэх",
+   "example_en": "You can trust me with the secret. I haven't given it away.",
+   "example_mn": ""
+  },
+  {
+   "en": "give back",
+   "mn": "буцааж, эргүүлж өгөх",
+   "example_en": "Can I use your pen? I'll give it back after the test.",
+   "example_mn": ""
+  },
+  {
+   "en": "give in",
+   "mn": "өгөх, гардуулах, хураалгах",
+   "example_en": "Students must give in their assignments next week.",
+   "example_mn": ""
+  },
+  {
+   "en": "give in",
+   "mn": "хүсээгүй зүйлээ зөвшөөрөх",
+   "example_en": "My son drove me crazy asking me to buy him a new bicycle, and I finally gave in.",
+   "example_mn": ""
+  },
+  {
+   "en": "give off",
+   "mn": "гаргах (дуу, чимээ, үнэр г.м.)",
+   "example_en": "The walls gave off a smell of paint for a week.",
+   "example_mn": ""
+  },
+  {
+   "en": "give onto",
+   "mn": "хөтлөх, чиглүүлэх",
+   "example_en": "The balcony gives onto the swimming pool.",
+   "example_mn": ""
+  },
+  {
+   "en": "give out",
+   "mn": "тараах",
+   "example_en": "They gave out free hats to the first 5,000 fans to enter the stadium.",
+   "example_mn": ""
+  },
+  {
+   "en": "give out",
+   "mn": "ажиллахаа болих",
+   "example_en": "I had that printer for 10 years, and it finally gave out last week.",
+   "example_mn": ""
+  },
+  {
+   "en": "give out",
+   "mn": "гаргах, өгөх (гэрэл, дохио, дулаан г.м.)",
+   "example_en": "The lamp gave out a yellowish light.",
+   "example_mn": ""
+  },
+  {
+   "en": "give out",
+   "mn": "үнэгүй тараах",
+   "example_en": "They were giving out free perfume samples at the department store.",
+   "example_mn": ""
+  },
+  {
+   "en": "give over",
+   "mn": "болих, зогсох",
+   "example_en": "Come on, give over complaining!",
+   "example_mn": ""
+  },
+  {
+   "en": "give up",
+   "mn": "бууж өгөх, татгалзах, болих",
+   "example_en": "Forget it! This is impossible - I give up.",
+   "example_mn": ""
+  },
+  {
+   "en": "give up",
+   "mn": "зуршлаасаа салах, хаях",
+   "example_en": "I am giving up smoking as of January 1st.",
+   "example_mn": ""
+  },
+  {
+   "en": "give up",
+   "mn": "өөрийнхөө юмыг хүнд өгөх",
+   "example_en": "The kid gave up his seat to the old lady.",
+   "example_mn": ""
+  },
+  {
+   "en": "go about",
+   "mn": "ажил, үйлийг эхлэх, хийх",
+   "example_en": "I have no idea how to go about opening a restaurant.",
+   "example_mn": ""
+  },
+  {
+   "en": "go after",
+   "mn": "олох, -тай болохыг хичээх",
+   "example_en": "He went after a very well paid job but didn't get it.",
+   "example_mn": ""
+  },
+  {
+   "en": "go against",
+   "mn": "өрсөлдөх, тэмцэх",
+   "example_en": "We're going against the best soccer team in the city tonight.",
+   "example_mn": ""
+  },
+  {
+   "en": "go after",
+   "mn": "дагах, хөөцөлдөх",
+   "example_en": "I didn't go after her when she left. I think she needed to be on her own.",
+   "example_mn": ""
+  },
+  {
+   "en": "go ahead",
+   "mn": "эхлэх, хийх, үргэлжлүүлэх",
+   "example_en": "I've decided to go ahead with my plan to recognize the company.",
+   "example_mn": ""
+  },
+  {
+   "en": "go along with",
+   "mn": "санал нийлэх, дэмжиж, дагах",
+   "example_en": "What's my opinion? I go along with Ann.",
+   "example_mn": ""
+  },
+  {
+   "en": "go around",
+   "mn": "тойрч ирэх (аялах)",
+   "example_en": "It took seven days to go around the island.",
+   "example_mn": ""
+  },
+  {
+   "en": "go around",
+   "mn": "тойрох, зайлсхийх",
+   "example_en": "There was some broken glass in the street, but I went around.",
+   "example_mn": ""
+  },
+  {
+   "en": "go around",
+   "mn": "зочлох, айчлах",
+   "example_en": "The president went around the state giving the same speech at every stop.",
+   "example_mn": ""
+  },
+  {
+   "en": "go around",
+   "mn": "цуурхал тарах",
+   "example_en": "A rumor went around that the plant was going to close.",
+   "example_mn": ""
+  },
+  {
+   "en": "go around",
+   "mn": "хангалттай байх",
+   "example_en": "There aren't enough jobs to go around for graduates nowadays.",
+   "example_mn": ""
+  },
+  {
+   "en": "go away",
+   "mn": "явах, холдох",
+   "example_en": "Go away! I'm trying to study.",
+   "example_mn": ""
+  },
+  {
+   "en": "go away",
+   "mn": "аялах, явах",
+   "example_en": "We always go away for a few weeks in the winter.",
+   "example_mn": ""
+  },
+  {
+   "en": "go away",
+   "mn": "арилах, зүгээр болох",
+   "example_en": "I have a pain in my back that never goes away.",
+   "example_mn": ""
+  },
+  {
+   "en": "go back",
+   "mn": "буцаж очих",
+   "example_en": "I had forgotten my passport and had to go back to get it.",
+   "example_mn": ""
+  },
+  {
+   "en": "go back",
+   "mn": "оршин тогтнох, хамаарах, эргэн санагдах",
+   "example_en": "This table is very valuable. It goes back to the 1760.",
+   "example_mn": ""
+  },
+  {
+   "en": "go back",
+   "mn": "эхлэх, үүсэх",
+   "example_en": "His drug problem goes back to his college years.",
+   "example_mn": ""
+  },
+  {
+   "en": "go back on",
+   "mn": "амласан, хэлсэндээ хүрэхгүй байх",
+   "example_en": "The President went back on his pledge not to raise taxes.",
+   "example_mn": ""
+  },
+  {
+   "en": "go beyond",
+   "mn": "хэтрэх, давах",
+   "example_en": "The cost of the new hospital should not go beyond $25 million.",
+   "example_mn": ""
+  },
+  {
+   "en": "go by",
+   "mn": "хажуугаар гарах, өнгөрөх",
+   "example_en": "I went by Jim's house to see if his car was in the driveway.",
+   "example_mn": ""
+  },
+  {
+   "en": "go by",
+   "mn": "орох, дайрах",
+   "example_en": "Let's go by Paul's house to get his tools before we work on your car.",
+   "example_mn": ""
+  },
+  {
+   "en": "go by",
+   "mn": "хугацаа өнгөрөх",
+   "example_en": "I can't believe that forty years have gone by since I got out of high school.",
+   "example_mn": ""
+  },
+  {
+   "en": "go by",
+   "mn": "дагах, мөрдөх (хууль, дүрэм, бодлого)",
+   "example_en": "Going by the book has always been my policy.",
+   "example_mn": ""
+  },
+  {
+   "en": "go by",
+   "mn": "цаг харах, ашиглах",
+   "example_en": "Don't go by the clock on the wall; it's fast. Go by the clock on the desk.",
+   "example_mn": ""
+  },
+  {
+   "en": "go down",
+   "mn": "буух, уруудах",
+   "example_en": "Going down the mountain was a lot easier than going up.",
+   "example_mn": ""
+  },
+  {
+   "en": "go down",
+   "mn": "буух, буурах (үнэ, чанар, хэмжээ г.м.)",
+   "example_en": "The temperature went down to zero last night.",
+   "example_mn": ""
+  },
+  {
+   "en": "go down",
+   "mn": "компьютер, сүлжээ ажиллахаа болих",
+   "example_en": "If your computer terminal goes down, you can use mine.",
+   "example_mn": ""
+  },
+  {
+   "en": "go down",
+   "mn": "жаргах, шингэх (нар)",
+   "example_en": "After the sun goes down, it'll get a little cooler.",
+   "example_mn": ""
+  },
+  {
+   "en": "go for",
+   "mn": "дурлах, таалах",
+   "example_en": "Erik really goes for scuba diving.",
+   "example_mn": ""
+  },
+  {
+   "en": "go for",
+   "mn": "зорьсондоо хүрэх",
+   "example_en": "After she finished her master's, she went for a Ph.D.",
+   "example_mn": ""
+  },
+  {
+   "en": "go for",
+   "mn": "санал нэг, адил байх",
+   "example_en": "Bill is really angry about it, and that goes for me, too.",
+   "example_mn": ""
+  },
+  {
+   "en": "go in / into",
+   "mn": "орох, дотогш нэвтрэх",
+   "example_en": "It's getting too dark to play tennis. Let's go in.",
+   "example_mn": ""
+  },
+  {
+   "en": "go into",
+   "mn": "нарийвчилж, дэлгэрэнгүй ярих",
+   "example_en": "She didn't go into the reasons for the move.",
+   "example_mn": ""
+  },
+  {
+   "en": "go in",
+   "mn": "таарах, багтах, тавих",
+   "example_en": "All my clothes will never go in this small suitcase.",
+   "example_mn": ""
+  },
+  {
+   "en": "go in for",
+   "mn": "оролцох, дурлах",
+   "example_en": "When I was a child I went in for volleyball, but I don't watch it much anymore.",
+   "example_mn": ""
+  },
+  {
+   "en": "go off",
+   "mn": "чанга дугарах, дэлбэрэх",
+   "example_en": "My alarm clock went off at 7:00 a.m.",
+   "example_mn": ""
+  },
+  {
+   "en": "go off",
+   "mn": "унтрах, тасрах",
+   "example_en": "The electricity went off at 9:00 last night.",
+   "example_mn": ""
+  },
+  {
+   "en": "go off",
+   "mn": "өөр тийшээ явах",
+   "example_en": "Sam went off not realizing he had left his wallet at home.",
+   "example_mn": ""
+  },
+  {
+   "en": "go off",
+   "mn": "төлөвлөсөөр болох",
+   "example_en": "The invasion didn't go off the way the general planned it.",
+   "example_mn": ""
+  },
+  {
+   "en": "go off",
+   "mn": "зам хазайх",
+   "example_en": "I didn't know which way to go - one path went off to the left, the other to the right.",
+   "example_mn": ""
+  },
+  {
+   "en": "go on",
+   "mn": "асах, ажиллах (цахилгаан хэрэгсэл)",
+   "example_en": "The lights go on automatically if someone walks near the door.",
+   "example_mn": ""
+  },
+  {
+   "en": "go on",
+   "mn": "тохиолдох, болох",
+   "example_en": "Tell me what went on at the party last night?",
+   "example_mn": ""
+  },
+  {
+   "en": "go on",
+   "mn": "үргэлжлэх, үргэлжлүүлэх",
+   "example_en": "I asked her to be quiet, but she went right on singing.",
+   "example_mn": ""
+  },
+  {
+   "en": "go on",
+   "mn": "хасах (жин), хоолны дэглэм барих",
+   "example_en": "I go on a diet every January.",
+   "example_mn": ""
+  },
+  {
+   "en": "go on",
+   "mn": "үргэлжлүүлэн хийх",
+   "example_en": "Oh, go on - don't be afraid.",
+   "example_mn": ""
+  },
+  {
+   "en": "go on with",
+   "mn": "төлөвлөсөн ёсоор үргэлжлүүлэх",
+   "example_en": "I think we should go on with the lesson after break.",
+   "example_mn": ""
+  },
+  {
+   "en": "go out",
+   "mn": "гадагш гарах, аялах",
+   "example_en": "Emma was so sick that she didn't go out of the house for a week.",
+   "example_mn": ""
+  },
+  {
+   "en": "go out",
+   "mn": "унтрах, намжих",
+   "example_en": "The fire went out because we ran out of fuel for it.",
+   "example_mn": ""
+  },
+  {
+   "en": "go out",
+   "mn": "хамт явах, уулзах, үзвэр үзэх",
+   "example_en": "Ann and Sam went out for three years before they got married.",
+   "example_mn": ""
+  },
+  {
+   "en": "go over",
+   "mn": "өөр газар очих",
+   "example_en": "I'm busy. Go over there and stop bothering me.",
+   "example_mn": ""
+  },
+  {
+   "en": "go over",
+   "mn": "очих, зочлох",
+   "example_en": "I went over to Ann's for dinner last night.",
+   "example_mn": ""
+  },
+  {
+   "en": "go over",
+   "mn": "нягтлан үзэх",
+   "example_en": "You should go over your homework before you give it to the teacher.",
+   "example_mn": ""
+  },
+  {
+   "en": "go over",
+   "mn": "тайлбарлах, дахин хэлэх",
+   "example_en": "Could you go over that point again, please?",
+   "example_mn": ""
+  },
+  {
+   "en": "go over",
+   "mn": "батлагдах, зөвшөөрөгдөх",
+   "example_en": "My plans went over well.",
+   "example_mn": ""
+  },
+  {
+   "en": "go over",
+   "mn": "цэвэрлэх",
+   "example_en": "I went over the living room with the vacuum cleaner before they arrived.",
+   "example_mn": ""
+  },
+  {
+   "en": "go round",
+   "mn": "хангалттай байх",
+   "example_en": "There won't be enough soup to go round if you fill your bowl right to the top.",
+   "example_mn": ""
+  },
+  {
+   "en": "go through",
+   "mn": "дахин унших",
+   "example_en": "I went through my notes before the exam.",
+   "example_mn": ""
+  },
+  {
+   "en": "go through",
+   "mn": "хайх, шалгах",
+   "example_en": "I went through my desk looking for the letter.",
+   "example_mn": ""
+  },
+  {
+   "en": "go through",
+   "mn": "зааврын дагуу хийх",
+   "example_en": "You must go through the proper channels to get the approval.",
+   "example_mn": ""
+  },
+  {
+   "en": "go through",
+   "mn": "тайлбарлах",
+   "example_en": "I went through his ideas twice, but I couldn't really understand them.",
+   "example_mn": ""
+  },
+  {
+   "en": "go through",
+   "mn": "орох",
+   "example_en": "They said I could go through the exam room.",
+   "example_mn": ""
+  },
+  {
+   "en": "go through",
+   "mn": "зарцуулах, идэх, уух",
+   "example_en": "We went through a fortune on our holiday.",
+   "example_mn": ""
+  },
+  {
+   "en": "go through with",
+   "mn": "эсэргүүцэл, бэрхшээлийг үл тоон төлөвлөсөн зүйлээ хийх",
+   "example_en": "Despite his family's opposition, Sam went through with his plan to move the company to Mexico.",
+   "example_mn": ""
+  },
+  {
+   "en": "go up",
+   "mn": "өсөх (үнэ, ханш, хэмжээ г.м.)",
+   "example_en": "The price of gas hasn't gone up in two years.",
+   "example_mn": ""
+  },
+  {
+   "en": "go up",
+   "mn": "дөхөж, хүрч очих",
+   "example_en": "We went up and asked them for some information about the courses.",
+   "example_mn": ""
+  },
+  {
+   "en": "go up",
+   "mn": "хүрч ирэх",
+   "example_en": "I spend the winters in Mexico, and go up to my home in Ohio in the summer.",
+   "example_mn": ""
+  },
+  {
+   "en": "go up",
+   "mn": "мөрдөгдөх (хуваарь)",
+   "example_en": "Do you have the new schedule? This one goes up only to the end of April.",
+   "example_mn": ""
+  },
+  {
+   "en": "go up",
+   "mn": "баригдах, байгуулагдах",
+   "example_en": "A new factory is going up on the old airport.",
+   "example_mn": ""
+  },
+  {
+   "en": "go up",
+   "mn": "гэнэт дэлбэрэх",
+   "example_en": "There's a gas leak and the whole building could go up at any moment.",
+   "example_mn": ""
+  },
+  {
+   "en": "go with",
+   "mn": "зохицох",
+   "example_en": "That blouse doesn't go with that skirt.",
+   "example_mn": ""
+  },
+  {
+   "en": "go with",
+   "mn": "дагах, хамт явах",
+   "example_en": "I am going with Jill to school.",
+   "example_mn": ""
+  },
+  {
+   "en": "go without",
+   "mn": "тэвчих, хэрэглэхгүй байх",
+   "example_en": "A camel can go without water for many, many days.",
+   "example_mn": ""
+  },
+  {
+   "en": "grow apart",
+   "mn": "хөндийрөх, салах",
+   "example_en": "The couple were very close at first, but eventually they grew apart.",
+   "example_mn": ""
+  },
+  {
+   "en": "grow back",
+   "mn": "дахин ургах, толжих",
+   "example_en": "When you go bald, your hair will never grow back again.",
+   "example_mn": ""
+  },
+  {
+   "en": "grow into",
+   "mn": "өсөх, хувцас таарах",
+   "example_en": "Joe will grow into his clothes when he gets older.",
+   "example_mn": ""
+  },
+  {
+   "en": "grow on",
+   "mn": "дургүй зүйлээ дуртай болох",
+   "example_en": "Abdul never liked pizza, but now it's starting to grow on him.",
+   "example_mn": ""
+  },
+  {
+   "en": "grow out of",
+   "mn": "өсөж хувцас нь багадах",
+   "example_en": "Jim is growing fast. He will soon grow out of his clothes.",
+   "example_mn": ""
+  },
+  {
+   "en": "grow out of",
+   "mn": "хэрсүүжих, ухаарах",
+   "example_en": "Jim's son is going through a difficult stage, but he'll grow out of it in a couple of years.",
+   "example_mn": ""
+  },
+  {
+   "en": "grow out of",
+   "mn": "санаа гарах",
+   "example_en": "The idea for the story grew out of a strange experience I had last year.",
+   "example_mn": ""
+  },
+  {
+   "en": "grow up",
+   "mn": "өсөх, бойжих",
+   "example_en": "Growing up without a father wasn't easy.",
+   "example_mn": ""
+  },
+  {
+   "en": "grow up",
+   "mn": "хөгжих, дэвжих",
+   "example_en": "The town grew up as a trading post.",
+   "example_mn": ""
+  },
+  {
+   "en": "grow up",
+   "mn": "томоожих, гараас гарах",
+   "example_en": "You're acting like a baby. Why don't you grow up!",
+   "example_mn": ""
+  },
+  {
+   "en": "hand back",
+   "mn": "буцааж өгөх",
+   "example_en": "That toy isn't yours. Hand it back!",
+   "example_mn": ""
+  },
+  {
+   "en": "hand down",
+   "mn": "өвлүүлэх",
+   "example_en": "He keeps the family jewels in a safe place in order to hand them down to her children.",
+   "example_mn": ""
+  },
+  {
+   "en": "hand in",
+   "mn": "үнэлүүлэхээр өгөх",
+   "example_en": "The teacher was surprised that Katie handed in her homework on time.",
+   "example_mn": ""
+  },
+  {
+   "en": "hand on",
+   "mn": "дамжуулах",
+   "example_en": "During a relay race, each runner has to hand on the baton to the next runner.",
+   "example_mn": ""
+  },
+  {
+   "en": "hand out",
+   "mn": "тараах",
+   "example_en": "The teacher was ready to hand out the worksheets at the beginning of the lesson.",
+   "example_mn": ""
+  },
+  {
+   "en": "hand over",
+   "mn": "өгөх, үүрэг өгөх",
+   "example_en": "Zachary decided to buy the painting. He handed over $14 for it.",
+   "example_mn": ""
+  },
+  {
+   "en": "hang about",
+   "mn": "цаг дэмий үрэх",
+   "example_en": "There's always a group of teenagers hanging about at the top of my street.",
+   "example_mn": ""
+  },
+  {
+   "en": "hang around",
+   "mn": "хүн хүлээх, байх, цаг нөгцөөх",
+   "example_en": "Do you have to go or can you hang around for a while?",
+   "example_mn": ""
+  },
+  {
+   "en": "hang back",
+   "mn": "хойрго, итгэлгүй байх",
+   "example_en": "There's no need to hang back - you can sing as well as anyone.",
+   "example_mn": ""
+  },
+  {
+   "en": "hang on",
+   "mn": "хүлээх, барих, зуурах",
+   "example_en": "Hang on! Don't go. I'll be there in a minute.",
+   "example_mn": ""
+  },
+  {
+   "en": "hang onto",
+   "mn": "хадгалах, барьж байх",
+   "example_en": "Hang onto this receipt. You might need it in the future.",
+   "example_mn": ""
+  },
+  {
+   "en": "hang out",
+   "mn": "зугаацах, хамт байх",
+   "example_en": "Let's hang out this weekend if you're not doing anything.",
+   "example_mn": ""
+  },
+  {
+   "en": "hang together",
+   "mn": "хамтарч ажиллах",
+   "example_en": "We have to hang together if we're going to finish this project.",
+   "example_mn": ""
+  },
+  {
+   "en": "hang up",
+   "mn": "өлгөх",
+   "example_en": "You can hang up your coat on the back of the door.",
+   "example_mn": ""
+  },
+  {
+   "en": "hang up",
+   "mn": "харилцуураа тавих",
+   "example_en": "After I finished talking to her, I said good-bye and hung up.",
+   "example_mn": ""
+  },
+  {
+   "en": "hang up on",
+   "mn": "утсаа таслах (бүдүүлгээр)",
+   "example_en": "I can't believe it. They just hung up on me!",
+   "example_mn": ""
+  },
+  {
+   "en": "hang with",
+   "mn": "хамт байх",
+   "example_en": "Where were you? I was just hanging with some friends at the Mall.",
+   "example_mn": ""
+  },
+  {
+   "en": "hold against",
+   "mn": "ос санах, буруутгах",
+   "example_en": "He was very rude, but I won't hold it against him.",
+   "example_mn": ""
+  },
+  {
+   "en": "hold back",
+   "mn": "тэвчих, барих",
+   "example_en": "He tried to hold back his tears while watching the sad movie but couldn't.",
+   "example_mn": ""
+  },
+  {
+   "en": "hold back",
+   "mn": "хойшлох, улирах",
+   "example_en": "He's a year older than his classmates because he was held back in second grade.",
+   "example_mn": ""
+  },
+  {
+   "en": "hold back",
+   "mn": "зогсоох, хорих, агуулах",
+   "example_en": "The dam can't hold back that much water.",
+   "example_mn": ""
+  },
+  {
+   "en": "hold back",
+   "mn": "нуух",
+   "example_en": "The driver held back the information about his drunk driving arrest when he was younger.",
+   "example_mn": ""
+  },
+  {
+   "en": "hold back from",
+   "mn": "татгалзах, үл зөвшөөрөх",
+   "example_en": "John was held back from going to the movies by his mother.",
+   "example_mn": ""
+  },
+  {
+   "en": "hold down",
+   "mn": "ажилтай байх",
+   "example_en": "It's hard to hold down a job in uncertain economic times.",
+   "example_mn": ""
+  },
+  {
+   "en": "hold down",
+   "mn": "өсөлтийг бууруулах",
+   "example_en": "We have to hold down costs if we want to increase our margins.",
+   "example_mn": ""
+  },
+  {
+   "en": "hold forth",
+   "mn": "ярих, номлох",
+   "example_en": "John is holding forth about socialism's benefits again. What a bore!",
+   "example_mn": ""
+  },
+  {
+   "en": "hold off",
+   "mn": "хойшлуулах",
+   "example_en": "We had to hold off buying a new car this year as John lost his job.",
+   "example_mn": ""
+  },
+  {
+   "en": "hold off",
+   "mn": "дайралтаас хамгаалах",
+   "example_en": "The police held off the violent crowd with tear gas.",
+   "example_mn": ""
+  },
+  {
+   "en": "hold on",
+   "mn": "барих, зуурах",
+   "example_en": "When the horse jumped over the fence, I held on as hard as I could.",
+   "example_mn": ""
+  },
+  {
+   "en": "hold on",
+   "mn": "хүлээх (богино хугацаагаар)",
+   "example_en": "Hold on a minute, I'll be right there.",
+   "example_mn": ""
+  },
+  {
+   "en": "hold onto",
+   "mn": "хадгалах",
+   "example_en": "My father-in-law likes to hold onto old newspapers for some odd reason.",
+   "example_mn": ""
+  },
+  {
+   "en": "hold onto",
+   "mn": "чанга барих, зуурах",
+   "example_en": "Hold onto the rope and it'll pull you up the hill.",
+   "example_mn": ""
+  },
+  {
+   "en": "hold out",
+   "mn": "тосох, гаргах (гар)",
+   "example_en": "The street was filled with beggars holding their hands out.",
+   "example_mn": ""
+  },
+  {
+   "en": "hold out",
+   "mn": "хүрэлцээтэй байх",
+   "example_en": "This is all the money I have, so it has to hold out until I get paid again.",
+   "example_mn": ""
+  },
+  {
+   "en": "hold out",
+   "mn": "хориглох, эсэргүүцэх",
+   "example_en": "When the enemy attacked, they held out for six weeks.",
+   "example_mn": ""
+  },
+  {
+   "en": "hold out for",
+   "mn": "хүссэн зүйлээ хүлээх",
+   "example_en": "Why aren't you eating dessert? I'm holding out for the chocolate mousse.",
+   "example_mn": ""
+  },
+  {
+   "en": "hold out on",
+   "mn": "нуух, хаах",
+   "example_en": "Don't hold out on me now. Tell me where you were last night.",
+   "example_mn": ""
+  },
+  {
+   "en": "hold over",
+   "mn": "хойшлох",
+   "example_en": "The meeting has been held over till Friday.",
+   "example_mn": ""
+  },
+  {
+   "en": "hold over",
+   "mn": "төлөвлөсөөс урт үргэлжлэх",
+   "example_en": "The play got held over for the third straight week.",
+   "example_mn": ""
+  },
+  {
+   "en": "hold together",
+   "mn": "бутрахгүй, тарахгүй байх",
+   "example_en": "The society managed to hold together despite the crisis.",
+   "example_mn": ""
+  },
+  {
+   "en": "hold up",
+   "mn": "хоцрох, хойшлох",
+   "example_en": "I'm sorry I'm late. I was held up by traffic.",
+   "example_mn": ""
+  },
+  {
+   "en": "hold up",
+   "mn": "зэвсэглэн дээрэмдэх",
+   "example_en": "Some idiot tried to hold the bank up with a squirt gun.",
+   "example_mn": ""
+  },
+  {
+   "en": "hold up",
+   "mn": "хэвээрээ, муухай болохгүй байх",
+   "example_en": "These cheap shoes won't hold up more than six weeks.",
+   "example_mn": ""
+  },
+  {
+   "en": "hold up",
+   "mn": "хүлээн зөвшөөрөгдөх",
+   "example_en": "The ceasefire is holding up longer than anyone expected.",
+   "example_mn": ""
+  },
+  {
+   "en": "hold up",
+   "mn": "тулах, түших",
+   "example_en": "The workers were killed when they removed a column holding the roof up.",
+   "example_mn": ""
+  },
+  {
+   "en": "hold with",
+   "mn": "зөвшөөрөх, хүлээж авах",
+   "example_en": "She doesn't hold with people living together before they are married.",
+   "example_mn": ""
+  },
+  {
+   "en": "keep around",
+   "mn": "авч явах, хамт байх",
+   "example_en": "Josh is never seen without his bag. He always keeps it around.",
+   "example_mn": ""
+  },
+  {
+   "en": "keep at",
+   "mn": "үргэлжлүүлэх",
+   "example_en": "Don't quit studying! If you keep at it you'll eventually pass your exams.",
+   "example_mn": ""
+  },
+  {
+   "en": "keep away",
+   "mn": "хүрэхгүй, ойртохгүй байх",
+   "example_en": "This is a dangerous area. Keep away!",
+   "example_mn": ""
+  },
+  {
+   "en": "keep back",
+   "mn": "зай барих, хол байх",
+   "example_en": "It's too dangerous to enter this area. Keep back!",
+   "example_mn": ""
+  },
+  {
+   "en": "keep down",
+   "mn": "шингээх (хоол)",
+   "example_en": "The food he ate was so bad, he couldn't keep it down.",
+   "example_mn": ""
+  },
+  {
+   "en": "keep from",
+   "mn": "барих, зогсоох, болиулах",
+   "example_en": "The movie was so sad that I couldn't keep from crying.",
+   "example_mn": ""
+  },
+  {
+   "en": "keep in",
+   "mn": "хорих, гаргахгүй байх",
+   "example_en": "Jack's mother kept him in until he finished his homework.",
+   "example_mn": ""
+  },
+  {
+   "en": "keep off",
+   "mn": "дээр нь гишгэхгүй, явахгүй байх",
+   "example_en": "The sign says \"Keep off the grass.\"",
+   "example_mn": ""
+  },
+  {
+   "en": "keep off",
+   "mn": "татгалзах, хэрэглэхгүй байх",
+   "example_en": "Since getting out of jail, Sam has been able to keep off drugs.",
+   "example_mn": ""
+  },
+  {
+   "en": "keep on",
+   "mn": "үргэлжлэх",
+   "example_en": "If they keep on drinking like that, they will be drunk.",
+   "example_mn": ""
+  },
+  {
+   "en": "keen on",
+   "mn": "дуртай, хүсэлтэй байх",
+   "example_en": "She's not keen on being told what to do.",
+   "example_mn": ""
+  },
+  {
+   "en": "keep out",
+   "mn": "хориглох",
+   "example_en": "The police kept out the public from entering the crime scene.",
+   "example_mn": ""
+  },
+  {
+   "en": "keep to",
+   "mn": "дагах, хэмжээнд нь барих",
+   "example_en": "They had to keep to the path in order not to get lost.",
+   "example_mn": ""
+  },
+  {
+   "en": "keep to",
+   "mn": "хадгалах (нууц)",
+   "example_en": "This is secret, so keep it to yourself.",
+   "example_mn": ""
+  },
+  {
+   "en": "keep up",
+   "mn": "тасралтгүй үргэлжлүүлэх",
+   "example_en": "You've achieved a lot this year. Keep up the good work!",
+   "example_mn": ""
+  },
+  {
+   "en": "keep up at",
+   "mn": "шаргуу байх",
+   "example_en": "If you keep up at your studies, you will do well in your exams.",
+   "example_mn": ""
+  },
+  {
+   "en": "keep up with",
+   "mn": "гүйцэх, зэрэгцэх",
+   "example_en": "Alan is too fast. Nobody could keep up with him.",
+   "example_mn": ""
+  },
+  {
+   "en": "leave aside",
+   "mn": "эс тооцох",
+   "example_en": "Leaving aside the question of cost, how many people do we need on the job?",
+   "example_mn": ""
+  },
+  {
+   "en": "leave behind",
+   "mn": "орхих, өөр тийш явах",
+   "example_en": "The explorers left the mountains behind and entered the jungle.",
+   "example_mn": ""
+  },
+  {
+   "en": "leave behind",
+   "mn": "орхих, үлдээх",
+   "example_en": "Leaving our children behind at a gas station was pretty dumb.",
+   "example_mn": ""
+  },
+  {
+   "en": "leave in",
+   "mn": "орхих, хасахгүй байх",
+   "example_en": "One of the boring scenes in the movie was cut. The others were left in.",
+   "example_mn": ""
+  },
+  {
+   "en": "leave off",
+   "mn": "жагсаалтаас хасах",
+   "example_en": "Check to make sure you don't leave anyone off the list.",
+   "example_mn": ""
+  },
+  {
+   "en": "leave off",
+   "mn": "зогсох, дуусах",
+   "example_en": "Okay class, we left off on page 50 last week, so open your book to page 51.",
+   "example_mn": ""
+  },
+  {
+   "en": "leave out",
+   "mn": "оролцуулахгүй байх, орхих",
+   "example_en": "Leave me out of this quarrel, please.",
+   "example_mn": ""
+  },
+  {
+   "en": "leave over",
+   "mn": "үлдэх",
+   "example_en": "I guess I made too much food; look how much is left over.",
+   "example_mn": ""
+  },
+  {
+   "en": "let down",
+   "mn": "гонсойлгох, урмыг нь хугалах",
+   "example_en": "I promised to do it, I can't let her down.",
+   "example_mn": ""
+  },
+  {
+   "en": "let in",
+   "mn": "орох, оруулах",
+   "example_en": "They're at the door. Can you let them in?",
+   "example_mn": ""
+  },
+  {
+   "en": "let in",
+   "mn": "оруулах (нар, агаар)",
+   "example_en": "I opened the curtains to let in the sunshine.",
+   "example_mn": ""
+  },
+  {
+   "en": "let in for",
+   "mn": "хэцүү, таагүй байдал орох",
+   "example_en": "This job is very hard. I didn't realize what I was letting myself in for.",
+   "example_mn": ""
+  },
+  {
+   "en": "let in on",
+   "mn": "нууцаа хэлэх",
+   "example_en": "She let me in on her secret. She's getting married!",
+   "example_mn": ""
+  },
+  {
+   "en": "let off",
+   "mn": "шийтгэхгүй өнгөрөөх",
+   "example_en": "I'll let you off this time, but if you do it again, you'll be severely punished.",
+   "example_mn": ""
+  },
+  {
+   "en": "let off",
+   "mn": "өргүй байхыг зөвшөөрөх",
+   "example_en": "I owed him some money, but he let me off. I didn't have to pay him back.",
+   "example_mn": ""
+  },
+  {
+   "en": "let out",
+   "mn": "явах боломж олгох",
+   "example_en": "Let me out at the end of the road. I can walk the rest of the way.",
+   "example_mn": ""
+  },
+  {
+   "en": "let out",
+   "mn": "тодорхой дуу авиа гаргах",
+   "example_en": "The lion let out a loud roar before he attacked the hunter.",
+   "example_mn": ""
+  },
+  {
+   "en": "let out",
+   "mn": "томруулах (багассан хувцас)",
+   "example_en": "After I gained twenty pounds, I had to have all my pants let out.",
+   "example_mn": ""
+  },
+  {
+   "en": "let up",
+   "mn": "намдах, завсарлах",
+   "example_en": "We'll go out for a walk if the rain lets up.",
+   "example_mn": ""
+  },
+  {
+   "en": "look after",
+   "mn": "асрах, харах",
+   "example_en": "When I have to travel on business, my parents usually look after my children.",
+   "example_mn": ""
+  },
+  {
+   "en": "look ahead",
+   "mn": "бодох, төлөвлөх",
+   "example_en": "We have to look ahead and try to estimate our needs for the next few years.",
+   "example_mn": ""
+  },
+  {
+   "en": "look around",
+   "mn": "эргэж харах, ажиглах",
+   "example_en": "I heard a sound, and I looked around to see who it was.",
+   "example_mn": ""
+  },
+  {
+   "en": "look at",
+   "mn": "гүйлгэж харах",
+   "example_en": "Could you look at my report and tell me if you think it's OK?",
+   "example_mn": ""
+  },
+  {
+   "en": "look at",
+   "mn": "анхааралтай судлах, бодох",
+   "example_en": "Costs are getting out of control. We need to look at them closely.",
+   "example_mn": ""
+  },
+  {
+   "en": "look back",
+   "mn": "эргэж бодох, харах",
+   "example_en": "I realize I was very naive when I look back.",
+   "example_mn": ""
+  },
+  {
+   "en": "look down",
+   "mn": "дорд үзэх",
+   "example_en": "Some people look down on Sam because his father was in prison.",
+   "example_mn": ""
+  },
+  {
+   "en": "look for",
+   "mn": "хайх, эрэх, олохыг хичээх",
+   "example_en": "He has been looking for a job for ages now.",
+   "example_mn": ""
+  },
+  {
+   "en": "look forward to",
+   "mn": "тэсэн ядан хүлээх",
+   "example_en": "I'm seeing him on Tuesday. I'm really looking forward to it.",
+   "example_mn": ""
+  },
+  {
+   "en": "look in",
+   "mn": "орооод гарах",
+   "example_en": "I'll look in on my way home and we can have a cup of tea.",
+   "example_mn": ""
+  },
+  {
+   "en": "look into",
+   "mn": "асуудлыг судлах, магадлах",
+   "example_en": "My boss asked me to look into ways to do it more efficiently.",
+   "example_mn": ""
+  },
+  {
+   "en": "look on",
+   "mn": "ажиглах, харах",
+   "example_en": "Five people just looked on as the robbers got away with the money.",
+   "example_mn": ""
+  },
+  {
+   "en": "look out",
+   "mn": "анхаарал, болгоомжтой байх",
+   "example_en": "Look out! There is a bus coming.",
+   "example_mn": ""
+  },
+  {
+   "en": "look over",
+   "mn": "сайн үзэх, шалгах, давтах",
+   "example_en": "He ought to look the car over before he buys it.",
+   "example_mn": ""
+  },
+  {
+   "en": "look to",
+   "mn": "найдах, хүсэн хүлээх",
+   "example_en": "Many students look to their professors for academic advice.",
+   "example_mn": ""
+  },
+  {
+   "en": "look through",
+   "mn": "гүйлгэж унших",
+   "example_en": "I looked through the article.",
+   "example_mn": ""
+  },
+  {
+   "en": "look up",
+   "mn": "харах (ном, толь бичиг г.м.)",
+   "example_en": "The teacher told the students to look the new words up in a dictionary.",
+   "example_mn": ""
+  },
+  {
+   "en": "look up",
+   "mn": "уулзах, зочлох",
+   "example_en": "You should look me up if you are ever in Mongolia.",
+   "example_mn": ""
+  },
+  {
+   "en": "look up",
+   "mn": "дээрдэх, сайжрах",
+   "example_en": "I'm much happier than I was last year. Things are looking up.",
+   "example_mn": ""
+  },
+  {
+   "en": "look up to",
+   "mn": "бишрэх, шүтэх",
+   "example_en": "I've always looked up to my father because of his honesty and concern for others.",
+   "example_mn": ""
+  },
+  {
+   "en": "make after",
+   "mn": "эрэн сурвалжлах, хайх, хөөх",
+   "example_en": "The police made after the suspect all around the city.",
+   "example_mn": ""
+  },
+  {
+   "en": "make away with",
+   "mn": "хулгайлах",
+   "example_en": "The thieves made away with the painting.",
+   "example_mn": ""
+  },
+  {
+   "en": "make for",
+   "mn": "явах, зүглэх",
+   "example_en": "We made for home when it started raining.",
+   "example_mn": ""
+  },
+  {
+   "en": "make for",
+   "mn": "үүсгэх, бий болгох (нөхцөл, үр дүн)",
+   "example_en": "The low quality of the service made for a lot of dissatisfaction.",
+   "example_mn": ""
+  },
+  {
+   "en": "make into",
+   "mn": "юмаар юм хийх",
+   "example_en": "I can't believe you made that old log into such a beautiful guitar!",
+   "example_mn": ""
+  },
+  {
+   "en": "make of",
+   "mn": "ойлгох, бодох",
+   "example_en": "I don't know what to make of our new teacher.",
+   "example_mn": ""
+  },
+  {
+   "en": "make off",
+   "mn": "зугтах, оргох",
+   "example_en": "The criminals abandoned their vehicle and made off on foot.",
+   "example_mn": ""
+  }
+ ]
+}
